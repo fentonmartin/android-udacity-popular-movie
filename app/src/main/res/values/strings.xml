@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Movie Today</string>
+    <string name="app_share">Shared by Movie Today</string>
+    <string name="app_fen">FEN Productions</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="about_feedback">Feedback</string>
+    <string name="about_powered">Powered by :</string>
+    <string name="about_rate">Rate Us</string>
+
+    <string name="button_ok">OK</string>
+    <string name="button_home">Home</string>
+    <string name="button_popular">Popular Movies</string>
+    <string name="button_now_playing">Now Playing Movies</string>
+    <string name="button_top_rated">Top Rated Movies</string>
+    <string name="button_upcoming">Upcoming Movies</string>
+    <string name="button_search">Search Movies</string>
+    <string name="button_about">About</string>
+    <string name="button_share">Share</string>
+
+    <string name="menu_show_column_1">Single Mode</string>
+    <string name="menu_show_column_2">Double Mode</string>
+    <string name="menu_show_column_3">Normal Mode</string>
+    <string name="menu_show_column_4">Movies Mode</string>
+
+    <string name="menu_page">Page</string>
+    <string name="menu_page_next">Next Page</string>
+    <string name="menu_page_prev">Previous</string>
+    <string name="menu_page_text">You are on page</string>
+    <string name="menu_page_more">from</string>
+    <string name="menu_page_more_end">pages</string>
+    <string name="menu_page_item">movies</string>
+
+    <string name="movie_id">ID :</string>
+    <string name="movie_overview">Overview :</string>
+    <string name="movie_language">Language :</string>
+    <string name="movie_release">Release on</string>
+    <string name="movie_vote">/ 10</string>
+    <string name="movie_vote_more">from</string>
+    <string name="movie_vote_more_end">votes</string>
+    <string name="movie_adult_true">Adult : Yes</string>
+    <string name="movie_adult_false">Adult : No</string>
+    <string name="movie_budget">Budget :</string>
+    <string name="movie_homepage">Homepage :</string>
+    <string name="movie_revenue">Revenue :</string>
+    <string name="movie_runtime">Runtime :</string>
+    <string name="movie_status">Status :</string>
+    <string name="movie_genres">Genres :</string>
+    <string name="movie_productions">Productions :</string>
+    <string name="movie_trailer">Trailers :</string>
+    <string name="movie_rate">Rate :</string>
+    <string name="movie_similar">Similar Movies :</string>
+
+    <string name="text_yes">Yes</string>
+    <string name="text_no">No</string>
+    <string name="text_exit">Confirm Exit</string>
+    <string name="text_exit_more">Are you sure you want to exit?</string>
+    <string name="text_error_api">Ups, request timeout..</string>
+    <string name="text_error_empty">Nothing to show..</string>
+    <string name="text_error_network">No internet connection..</string>
+    <string name="text_error_not_found">We found nothing..</string>
+    <string name="text_search">Searching</string>
+
+</resources>

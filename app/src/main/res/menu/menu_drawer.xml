@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group>
+        <item
+            android:id="@+id/menu_nav_home"
+            android:title="@string/button_home" />
+        <item
+            android:id="@+id/menu_nav_popular"
+            android:title="@string/button_popular" />
+        <item
+            android:id="@+id/menu_nav_top_rated"
+            android:title="@string/button_top_rated" />
+        <item
+            android:id="@+id/menu_nav_now_playing"
+            android:title="@string/button_now_playing" />
+        <item
+            android:id="@+id/menu_nav_upcoming"
+            android:title="@string/button_upcoming" />
+        <item
+            android:id="@+id/menu_nav_about"
+            android:title="@string/button_about" />
+    </group>
+
+</menu>

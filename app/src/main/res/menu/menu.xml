@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+    android:id="@+id/action_search"
+    android:icon="@android:drawable/ic_menu_search"
+    android:titleCondensed="Search All Movies..."
+    app:showAsAction="ifRoom"
+    app:actionViewClass="android.support.v7.widget.SearchView"
+    android:title="@string/button_search"/>
+
+    <item
+        android:id="@+id/menu_show_1"
+        android:title="@string/menu_show_column_1"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_show_2"
+        android:title="@string/menu_show_column_2"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_show_3"
+        android:title="@string/menu_show_column_3"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_show_4"
+        android:title="@string/menu_show_column_4"
+        app:showAsAction="never" />
+
+</menu>
